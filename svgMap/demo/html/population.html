@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>svgMap HTML demos</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+
+    <link href="./demo.css" rel="stylesheet" />
+    <link href="../../dist/svgMap.css" rel="stylesheet" />
+    <script src="../../dist/svgMap.js"></script>
+  </head>
+
+  <body>
+    
+    <div class="demo-container">
+        <div id="svgMapPopulation"></div>
+        <script src="./data/population.js"></script>
+        <script>
+          new svgMap({
+            targetElementID: 'svgMapPopulation',
+            data: svgMapDataPopulation,
+            flagType: 'emoji',
+            mouseWheelZoomEnabled: true,
+            mouseWheelZoomWithKey: true,
+          });
+        </script>
+      </div>
+    </div>
+</body>
+</html>
