@@ -1,8 +1,14 @@
-# NASA_startingpage
+# WEB STATISTICIAN
 
-Well This page is the front website  of a project i am working on .It showcases some of the small details about the project and the start the project button with all details about your team.
+This project lets you see some of the most significant aspects of world statistics such as GDP (nominal and PPP), the literacy rate, the unemployment rate, and other fields in which the world is ranked in a very alluring fashion.
 
-you can use these webpage to make your own fornt web page for your project with your team portfolio.
+Essentially, the project is based on web development. At first you will be asked what characteristics you wish to learn more about. Now once you have selected the characteristics, a world map will be displayed to let you see the details of the country once you hover over it.
+
+Also it lets you compare the attributes of one country to the other country as well. Basically all you have to do is to just hover over the country that you want to see the details of. And It will display the info just above the country.
+
+This project can be a gem for aspirants who wish to learn about the world in an alluring fashion. In addition, it can be useful when taking government-related exams as such questions are often asked. In conclusion, these project offer you a unique way to access the data of the world.
+
+These projects use resources like Javascript, HTML, CSS and react in order to make an awesome set of websites which will help you explore the world in a statistical way.
 
 # CONTRIBUTION GUIDE
 
