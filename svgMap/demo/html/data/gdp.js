@@ -699,7 +699,7 @@ var svgMapDataGPD = {
       changeAdjusted: 2.87
     },
     IN: {
-      link: 'https://pt.wikipedia.org/wiki/IN',
+      link: 'https://main--merry-meringue-26b280.netlify.app/pankajproject/',
       linkTarget: '_blank',
       gdp: 1983,
       change: 13.35,
