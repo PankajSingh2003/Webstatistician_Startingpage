@@ -89,7 +89,7 @@ var svgMapDataGPD = {
     AU: {
       link: 'https://pt.wikipedia.org/wiki/AU',
       linkTarget: '_blank',
-      gdp: 55707,
+      gdp: 65099,
       change: 7.39,
       linkTarget: '_blank',
       gdpAdjusted: 50334,
@@ -287,7 +287,7 @@ var svgMapDataGPD = {
     CA: {
       link: 'https://pt.wikipedia.org/wiki/CA',
       linkTarget: '_blank',
-      gdp: 45077,
+      gdp: 54917,
       change: 6.27,
       linkTarget: '_blank',
       gdpAdjusted: 48265,
@@ -341,10 +341,10 @@ var svgMapDataGPD = {
     CN: {
       link: 'https://pt.wikipedia.org/wiki/CN',
       linkTarget: '_blank',
-      gdp: 8643,
+      gdp: 12720,
       change: 6.5,
       linkTarget: '_blank',
-      gdpAdjusted: 16660,
+      gdpAdjusted: 25015,
       changeAdjusted: 6.47
     },
     CO: {
@@ -584,10 +584,10 @@ var svgMapDataGPD = {
     DE: {
       link: 'https://pt.wikipedia.org/wiki/DE',
       linkTarget: '_blank',
-      gdp: 44550,
+      gdp: 48717,
       change: 5.44,
       linkTarget: '_blank',
-      gdpAdjusted: 50425,
+      gdpAdjusted: 62605,
       changeAdjusted: 2.07
     },
     GH: {
@@ -782,7 +782,7 @@ var svgMapDataGPD = {
     JP: {
       link: 'https://pt.wikipedia.org/wiki/JP',
       linkTarget: '_blank',
-      gdp: 38440,
+      gdp: 33823,
       change: -1.4,
       linkTarget: '_blank',
       gdpAdjusted: 42832,
@@ -1448,7 +1448,7 @@ var svgMapDataGPD = {
     KR: {
       link: 'https://pt.wikipedia.org/wiki/KR',
       linkTarget: '_blank',
-      gdp: 29891,
+      gdp: 32422,
       change: 8.56,
       linkTarget: '_blank',
       gdpAdjusted: 39434,
@@ -1664,10 +1664,10 @@ var svgMapDataGPD = {
     GB: {
       link: 'https://pt.wikipedia.org/wiki/GB',
       linkTarget: '_blank',
-      gdp: 39735,
+      gdp: 46125,
       change: -1.96,
       linkTarget: '_blank',
-      gdpAdjusted: 44117,
+      gdpAdjusted: 46125,
       changeAdjusted: 1.21
     },
     US: {
