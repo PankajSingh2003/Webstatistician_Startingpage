@@ -548,7 +548,7 @@ var svgMapDataGPD = {
     FR: {
       link: 'https://pt.wikipedia.org/wiki/FR',
       linkTarget: '_blank',
-      gdp: 40,886,
+      gdp: 40886,
       change: 4.35,
       linkTarget: '_blank',
       gdpAdjusted: 43760,
