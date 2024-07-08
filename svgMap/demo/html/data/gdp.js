@@ -548,7 +548,7 @@ var svgMapDataGPD = {
     FR: {
       link: 'https://pt.wikipedia.org/wiki/FR',
       linkTarget: '_blank',
-      gdp: 39869,
+      gdp: 40,886,
       change: 4.35,
       linkTarget: '_blank',
       gdpAdjusted: 43760,
@@ -1277,10 +1277,10 @@ var svgMapDataGPD = {
     RU: {
       link: 'https://pt.wikipedia.org/wiki/RU',
       linkTarget: '_blank',
-      gdp: 10608,
+      gdp: 15270,
       change: 19.19,
       linkTarget: '_blank',
-      gdpAdjusted: 27834,
+      gdpAdjusted: 44103,
       changeAdjusted: 1.5
     },
     RW: {
@@ -1349,7 +1349,7 @@ var svgMapDataGPD = {
     SA: {
       link: 'https://pt.wikipedia.org/wiki/SA',
       linkTarget: '_blank',
-      gdp: 21120,
+      gdp: 30447,
       change: 3.95,
       linkTarget: '_blank',
       gdpAdjusted: 54777,
@@ -1466,8 +1466,8 @@ var svgMapDataGPD = {
     ES: {
       link: 'https://pt.wikipedia.org/wiki/ES',
       linkTarget: '_blank',
-      gdp: 28359,
-      change: 6.31,
+      gdp: 29674,
+      change: -1.60,
       linkTarget: '_blank',
       gdpAdjusted: 38286,
       changeAdjusted: 3.01
