@@ -701,10 +701,10 @@ var svgMapDataGPD = {
     IN: {
       link: 'https://main--merry-meringue-26b280.netlify.app/pankajproject/',
       linkTarget: '_blank',
-      gdp: 1983,
-      change: 13.35,
+      gdp: 2410,
+      change: 14.88,
       linkTarget: '_blank',
-      gdpAdjusted: 7183,
+      gdpAdjusted: 10176,
       changeAdjusted: 5.43
     },
     ID: {
@@ -1673,10 +1673,10 @@ var svgMapDataGPD = {
     US: {
       link: 'https://pt.wikipedia.org/wiki/US',
       linkTarget: '_blank',
-      gdp: 59501,
+      gdp: 76,329,
       change: 3.37,
       linkTarget: '_blank',
-      gdpAdjusted: 59501,
+      gdpAdjusted: 76,329,
       changeAdjusted: 1.48
     },
     UY: {
