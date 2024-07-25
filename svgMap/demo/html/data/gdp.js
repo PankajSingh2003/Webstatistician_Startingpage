@@ -702,10 +702,10 @@ var svgMapDataGPD = {
       link: 'https://main--merry-meringue-26b280.netlify.app/pankajproject/',
       linkTarget: '_blank',
       gdp: 2410,
-      change: 14.88,
+      change: 7.24,
       linkTarget: '_blank',
       gdpAdjusted: 10176,
-      changeAdjusted: 5.43
+      changeAdjusted: 9.05
     },
     ID: {
       link: 'https://pt.wikipedia.org/wiki/ID',
