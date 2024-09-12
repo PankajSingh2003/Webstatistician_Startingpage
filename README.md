@@ -84,6 +84,8 @@ Now open your browser, here you will see a notification. Juslt click on **compar
 
 Now submit the pull request.
 
+Thank you in advance for any help in the future :)
+
 Soon your pull request will be reviewed and merged. You will be notified via email once your pull request has been merged.
 
 Congratulations!! You have successfully raised your first pull request. Share on your socials.
